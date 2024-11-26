@@ -1,0 +1,2 @@
+PUT http://localhost:3000/album/673d04143793c2baf04cabde?field=artist&value=ali zafer
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3M2U1MTkzMmZkNDdhM2ZlNWY3M2VjYyIsImlhdCI6MTczMjE0NTQ0MCwiZXhwIjoxNzMyMTQ5MDQwfQ.JKDKLH9jfzCIHP3cKB4XO9Bn_43ycCOnLYKtY8k52Io

@@ -1,0 +1,7 @@
+GET http://localhost:3000/requested/send/data/user/profile
+Content-Type: application/json
+
+{
+    "username": "suha",
+    "password": "ssssssss"
+}

@@ -1,0 +1,12 @@
+POST http://localhost:3000/signup/
+Content-Type: application/json
+
+{
+    "firstname": "Appleseed",
+    "lastname": "Banana",
+    "username": "2021",
+    "password": "ab",
+    "gender": "male",
+    "dob": "4",
+    "date": ""
+}
